@@ -19,9 +19,6 @@ g++ main.cpp -o zombie_game
 ./zombie_game
 ```
 
-## 📸 Screenshots
-[Add gameplay screenshots]
-
 ## 🎓 Learning Outcomes
 - Implemented inheritance hierarchies
 - Used polymorphism for game entities
