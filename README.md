@@ -1,24 +1,28 @@
-# 🧟 Zombie Survival Game (C++)
+# 🧟 Zombie Survival Game
 
-Console-based zombie survival game built using Object-Oriented Programming concepts in C++.
+A C++ console-based zombie survival game demonstrating Object-Oriented Programming principles.
 
-## Features
-- Player vs Zombies
-- Ammo and Health System
-- Score Tracking
-- Random Zombie Movement
-- Win & Game Over Conditions
+## 🎯 Features
+- Character classes with inheritance
+- Polymorphic behavior for different zombie types
+- Inventory management system
+- Combat mechanics
 
-## OOP Concepts Used
-- Abstraction
-- Inheritance
-- Polymorphism
-- Encapsulation
+## 🛠️ Technologies
+- C++
+- OOP Concepts (Classes, Inheritance, Polymorphism)
+- Standard Template Library (STL)
 
-## How to Run
+## 🚀 How to Run
+```bash
+g++ main.cpp -o zombie_game
+./zombie_game
+```
 
-Compile:
-g++ main.cpp -o game
+## 📸 Screenshots
+[Add gameplay screenshots]
 
-Run:
-./game
+## 🎓 Learning Outcomes
+- Implemented inheritance hierarchies
+- Used polymorphism for game entities
+- Managed memory efficiently
